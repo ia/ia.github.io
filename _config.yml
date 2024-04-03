@@ -1,39 +1,40 @@
 # Site
-repository: sproogen/resume-theme
-favicon: images/favicon.ico
+repository: ia/modern-resume-theme
+favicon: images/cli.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Ivan Zorin
+title: System Engineer
+#email: no-spam-please-no-please-no
+#website: https://github.com/ia/modern-resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+#twitter_username:
+github_username: ia
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+# instagram_username:
+linkedin_username: ivzin
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username:
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#additional_links:
+#- title: example
+#  icon: fas fa-globe
+#  url: https://www.example.com
+
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -46,82 +47,82 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+#?about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hello, friend. I'm just a regular average techie, but very curious one and this is my resume, community edition.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Natural languages: <mark>English</mark>, <mark>Russian</mark>.
+  Programming languages: <mark>Bash</mark>, <mark>C</mark>/<mark>C++</mark>, <mark>Python</mark>.
+  Operating systems: I can work in any OS but prefer <mark>GNU/Linux</mark> <mark>Ubuntu LTS</mark> as a daily environment, and had experience of tampering with <mark>MacOS</mark>, <mark>FreeBSD</mark>, <mark>ThreadX</mark>, <mark>QNX</mark>, <mark>Android</mark>(AOSP/CyanogenMod/LineageOS).
+  System skills: <mark>POSIX</mark>, network programming (<mark>BSD sockets</mark> & <mark>WinSock</mark>).
+  Hardware skills: tearing down embedded devices, ID'ing components & tampering with firmware; maintainance & repair (heavily influenced by unimaginable contributions from Kyle Wiens' iFixit & Louis Rossmann to the society).
+  Other related interests: <mark>network protocols</mark>, <mark>security</mark>, <mark>CI</mark>/<mark>CD</mark>, <mark>UX</mark>, <mark>scrum</mark>, <mark>agile</mark>.
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Projects
+    layout: list
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
+        title: IronOS
+        link: github.com/Ralim/IronOS
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  Ralim/IronOS
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+            url: github.com/Ralim/IronOS
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Open Source Firmware for Smart Soldering Irons // official co-maintainer
+        description: |
+          I joined this project with a couple of patches to improve the experience with my <mark>TS80P</mark>, but definitely have found way much more than just that.
 
-  - title: Experience # Title for the section
+  - title: Past Contributions # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        title: Battery Status
+        link: wiki.gnome.org/Attic/BatteryStatus
+        link_text: BatteryStatus
+        sub_title: Developer & Maintainer
+        caption: April 2010 - May 2011
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          Graphical app to show all the details about a laptop battery in GTK-based GNU/Linux Desktop environments
+        description: |
+          This was my very first solo Open Source project which I started from scratch and made it to first stable release. This allowed me to get a lot of experience with such things as <mark>Launchpad</mark> infrastructure, <mark>Bazaar</mark> source control system, apt repos, <mark>deb</mark> packages, release cycles, <mark>GTK+</mark>, <mark>Python</mark>, <mark>PyGTK</mark>, <mark>DBus</mark> & <mark>UPower</mark>, UX & UI fundamental concepts.
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+# - title: Education # Title for the section
+#   layout: list # Type of content section (list/text)
+#   content:
+#     - layout: left
+#       title: Harvard University
+#       caption: 2010 - 2013
+#       sub_title: BSc Computer Science
+#       quote: >
+#         Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+#       description: | # this will include new lines to allow paragraphs
+#         During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+#
+#         I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Alongside my professional interests some of my other hobbies are:
+      - Cinema & Dramaturgy
+      - Science Fiction & Cyberpunk
+      - Microelectronics
+      - Digital Photography (without any post-processing) like this
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      ![Rivercity](/images/rivercity.jpg "Rivercity")
 
 # Footer
-footer_show_references: true
+#footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: ia/modern-resume-theme
 
 sass:
   sass_dir: _sass
   style: compressed
 
-plugins:
- - jekyll-seo-tag
+#plugins:
+# - jekyll-seo-tag
