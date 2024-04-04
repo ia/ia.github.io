@@ -55,10 +55,11 @@ about_content: | # this will include new lines to allow paragraphs
 
   Natural languages: <mark>English</mark>, <mark>Russian</mark>.  
   Programming languages: <mark>Bash</mark>, <mark>C</mark>/<mark>C++</mark>, <mark>Python</mark>.  
-  Operating systems: had experience of tampering with <mark>Windows7<mark>, <mark>MacOS</mark>, <mark>FreeBSD</mark>, <mark>ThreadX</mark>, <mark>QNX</mark>, <mark>Android</mark>, <mark>GNU/Linux</mark>  
+  Operating systems: experience of tampering with <mark>Windows7</mark>, <mark>MacOS</mark>, <mark>FreeBSD</mark>, <mark>ThreadX</mark>, <mark>QNX</mark>, <mark>Android</mark>, <mark>GNU/Linux</mark>.  
   System skills: <mark>POSIX</mark>, network programming (<mark>BSD sockets</mark> & <mark>WinSock</mark>).  
-  Hardware skills: tearing down <mark>embedded devices</mark>, ID'ing components & tampering with <mark>firmware</mark> sometimes.
+  Hardware skills: tearing down <mark>embedded devices</mark>, identifying components, learning schematics, reading datasheets & tampering with <mark>firmware</mark> sometimes.  
   Other related interests: <mark>network protocols</mark>, <mark>security</mark>, <mark>CI</mark>/<mark>CD</mark>, <mark>UX</mark>, <mark>scrum</mark>, <mark>agile</mark>.  
+  **DISCLAIMER:** not affiliated in any way with <mark>ZorinOS</mark> distro.  
 
 
 content:
@@ -115,10 +116,10 @@ content:
       - Hardware Maintainance & Repair, heavily influenced by unimaginable contributions from Kyle Wiens' iFixit & Louis Rossmann to the society;
       - Digital Photography (without any post-processing) like this:
 
-      ![Rivercity](/images/rivercity.jpg "Rivercity")
+      ![Rivercity](/images/rivercity.jpg)
 
 # Footer
-footer_show_references: false
+footer_show_references: true
 references_title: //
 
 # Build settings
