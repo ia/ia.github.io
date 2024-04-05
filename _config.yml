@@ -73,11 +73,11 @@ content:
     content:
       - layout: top-middle
         title: IronOS
-        link: github.com/Ralim/IronOS
+        link: https://github.com/Ralim/IronOS
         additional_links:
           - title:  Ralim/IronOS
             icon: fab fa-github
-            url: github.com/Ralim/IronOS
+            url: https://github.com/Ralim/IronOS
         quote: >
           Open Source Firmware for Smart Soldering Irons // official co-maintainer
         description: |
@@ -88,7 +88,7 @@ content:
     content:
       - layout: left
         title: Battery Status
-        link: wiki.gnome.org/Attic/BatteryStatus
+        link: https://wiki.gnome.org/Attic/BatteryStatus
         link_text: BatteryStatus
         sub_title: Developer & Maintainer
         caption: April 2010 - May 2011
