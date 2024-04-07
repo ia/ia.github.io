@@ -99,8 +99,7 @@ content:
 
 
           Once the app has been tested & released, the project has been frozen since it's reached its goal and I just didn't have enough of time back then catching up with transitions like GTK2/GTK3 & GNOME2/GNOME3.
-
-      ![BatteryStatus](/images/batterystatus.png)
+          ![BatteryStatus](/images/batterystatus.png)
 
 # - title: Education # Title for the section
 #   layout: list # Type of content section (list/text)
