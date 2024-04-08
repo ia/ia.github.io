@@ -2,8 +2,10 @@
 repository: ia/modern-resume-theme
 favicon: images/cli.ico
 
+
 # Content configuration version
 version: 2
+
 
 # Personal info
 name: Ivan Zorin
@@ -11,39 +13,23 @@ title: System Engineer
 #email: no-spam-please-no-please-no
 #website: https://github.com/ia/modern-resume-theme
 
+
 # Dark Mode (true/false/never)
 darkmode: false
 
+
 # Social links
-#twitter_username:
 github_username: ia
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
+# flickr_username:
 # instagram_username:
 linkedin_username: ivzin
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username:
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
 
-# Additional icon links
-#additional_links:
-#- title: example
-#  icon: fas fa-globe
-#  url: https://www.example.com
 
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
+additional_links:
+- title: HomeLab
+  icon: fas fa-globe # font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+  url: https://h0melab.github.io
 
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
 # about_title: About Me
@@ -54,17 +40,19 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 
-  Natural languages: <mark>English</mark>, <mark>Russian</mark>.  
-  Programming languages: <mark>Bash</mark>, <mark>C</mark>/<mark>C++</mark>, <mark>Python</mark>.  
-  Operating systems: experience of tampering with <mark>Windows</mark>, <mark>MacOS</mark>, <mark>FreeBSD</mark>, <mark>ThreadX</mark>, <mark>QNX</mark>, <mark>Android</mark>, <mark>GNU/Linux</mark>.  
-  System skills: <mark>POSIX</mark>, network programming (<mark>BSD sockets</mark> & <mark>WinSock</mark>).  
-  Hardware skills: tearing down <mark>embedded devices</mark>, id'ying components, reading schematics/datasheets & tampering with <mark>firmware</mark> sometimes.  
-  Other related interests: <mark>network protocols</mark>, <mark>security</mark>, <mark>CI</mark>/<mark>CD</mark>, <mark>UX</mark>, <mark>scrum</mark>, <mark>agile</mark>.  
+  - Natural languages: <mark>English</mark>, <mark>Russian</mark>.  
+  - Programming languages: <mark>Bash</mark>, <mark>C</mark>/<mark>C++</mark>, <mark>Python</mark>.  
+  - Operating systems: experience of tampering with <mark>Windows</mark>, <mark>MacOS</mark>, <mark>FreeBSD</mark>, <mark>ThreadX</mark>, <mark>QNX</mark>, <mark>Android</mark>, <mark>GNU/Linux</mark>.  
+  - System skills: <mark>POSIX</mark>, network programming (<mark>BSD sockets</mark> & <mark>WinSock</mark>), storage technologies & <mark>filesystems</mark>.  
+  - Hardware skills: tearing down <mark>embedded devices</mark>, id'ying components, reading schematics/datasheets & tampering with <mark>firmware</mark> sometimes.  
+  - Other related interests: <mark>network protocols</mark>, <mark>cryptography</mark>, <mark>security</mark>, <mark>CI</mark>/<mark>CD</mark>, <mark>UX</mark>, <mark>scrum</mark>, <mark>agile</mark>.  
 
 
 
 
   **DISCLAIMER:** not affiliated in any way with <mark>ZorinOS</mark> distro.  
+
+
 
 
 content:
@@ -83,8 +71,8 @@ content:
         description: |
           I joined this project with a couple of patches to improve the experience with my <mark>TS80P</mark>, but definitely have found way much more than just that.
 
-  - title: Past Contributions # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Past Contributions
+    layout: list
     content:
       - layout: left
         title: Battery Status
@@ -102,42 +90,34 @@ content:
 
           ![BatteryStatus](/images/batterystatus.png)
 
-# - title: Education # Title for the section
-#   layout: list # Type of content section (list/text)
-#   content:
-#     - layout: left
-#       title: Harvard University
-#       caption: 2010 - 2013
-#       sub_title: BSc Computer Science
-#       quote: >
-#         Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-#       description: | # this will include new lines to allow paragraphs
-#         During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-#
-#         I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
   - title: A Little More About Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    content: |
       Alongside my professional interests some of my other hobbies are:
       - Cinema & Dramaturgy;
       - Science Fiction & Cyberpunk;
       - Microelectronics;
+      - Multitools & related EDC portable gear
       - Hardware Maintainance & Repair, heavily influenced by [unimaginable contributions](https://en.wikipedia.org/wiki/Right_to_repair) from Kyle Wiens' [iFixit](https://www.ifixit.com) & [Louis Rossmann](https://www.youtube.com/@rossmanngroup) to the society;
       - Digital Photography (without any post-processing) like this:
 
       ![Rivercity](/images/rivercity.jpg)
 
+
 # Footer
-footer_show_references: false
-#references_title: //
+footer_show_references: true
+references_title: 
+
 
 # Build settings
 remote_theme: ia/modern-resume-theme
 
+
 sass:
   sass_dir: _sass
   style: compressed
+
 
 #plugins:
 # - jekyll-seo-tag
