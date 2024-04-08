@@ -98,7 +98,7 @@ content:
       - Cinema & Dramaturgy;
       - Science Fiction & Cyberpunk;
       - Microelectronics;
-      - Multitools & related EDC portable gear
+      - Multitools & related EDC portable gear;
       - Hardware Maintainance & Repair, heavily influenced by [unimaginable contributions](https://en.wikipedia.org/wiki/Right_to_repair) from Kyle Wiens' [iFixit](https://www.ifixit.com) & [Louis Rossmann](https://www.youtube.com/@rossmanngroup) to the society;
       - Digital Photography (without any post-processing) like this:
 
@@ -107,7 +107,7 @@ content:
 
 # Footer
 footer_show_references: true
-references_title: 
+references_title: Copyleft © 2024 (some rights reserved) // CC BY-NC-ND 2.0 unless stated otherwise.
 
 
 # Build settings
