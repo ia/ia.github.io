@@ -45,7 +45,7 @@ about_content: | # this will include new lines to allow paragraphs
   - Operating systems: experience of tampering with <mark>Windows</mark>, <mark>MacOS</mark>, <mark>FreeBSD</mark>, <mark>ThreadX</mark>, <mark>QNX</mark>, <mark>Android</mark>, <mark>GNU/Linux</mark>.  
   - System skills: <mark>POSIX</mark>, network programming (<mark>BSD sockets</mark> & <mark>WinSock</mark>), storage technologies & <mark>filesystems</mark>.  
   - Hardware skills: tearing down <mark>embedded devices</mark>, id'ying components, reading schematics/datasheets & tampering with <mark>firmware</mark> sometimes.  
-  - Other related interests: <mark>network protocols</mark>, <mark>cryptography</mark>, <mark>security</mark>, <mark>CI</mark>/<mark>CD</mark>, <mark>UX</mark>, <mark>scrum</mark>, <mark>agile</mark>.  
+  - Other related interests: <mark>network protocols</mark>, <mark>cryptography</mark>, <mark>security</mark>, <mark>DFIR</mark>, <mark>CI</mark>/<mark>CD</mark>, <mark>UX</mark>, <mark>scrum</mark>, <mark>agile</mark>.  
 
 
 
@@ -59,17 +59,21 @@ content:
   - title: Projects
     layout: list
     content:
-      - layout: top-middle
+      - layout: left
         title: IronOS
         link: https://github.com/Ralim/IronOS
+        link_text: IronOS by Ralim
+        sub-title: Official Maintainer
+        caption: Currently
         additional_links:
           - title:  Ralim/IronOS
             icon: fab fa-github
             url: https://github.com/Ralim/IronOS
         quote: >
-          Open Source Firmware for Smart Soldering Irons // official co-maintainer
+          Open Source Firmware for Smart Soldering Irons
         description: |
-          I joined this project with a couple of patches to improve the experience with my <mark>TS80P</mark>, but definitely have found way much more than just that.
+          I joined this project with a couple of patches to improve the experience with my <mark>TS80P</mark>, but definitely have found way much more than just that, such as a lot of wonderful people & very interesting knowledge from them.  
+
 
   - title: Past Contributions
     layout: list
