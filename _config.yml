@@ -63,7 +63,7 @@ content:
         title: IronOS
         link: https://github.com/Ralim/IronOS
         link_text: IronOS by Ralim
-        sub-title: Official Maintainer
+        sub_title: Official Maintainer
         caption: Currently
         additional_links:
           - title:  Ralim/IronOS
@@ -72,7 +72,12 @@ content:
         quote: >
           Open Source Firmware for Smart Soldering Irons
         description: |
-          I joined this project with a couple of patches to improve the experience with my <mark>TS80P</mark>, but definitely have found way much more than just that, such as a lot of wonderful people & very interesting knowledge from them.  
+          I joined this project with a couple of patches to improve the experience with my <mark>TS80P</mark>, but definitely have found way much more than just that, such as a lot of wonderful people & very interesting knowledge from them. Gained skills are (but not limited to):
+          - <mark>Docker</mark> basics;
+          - <mark>GitHub Actions</mark> under the hood;
+          - _coding "tidiness"_ (implemented & powered by <mark>clang-format</mark>);
+          - a lot of _"glue scripting"_ between makefiles, <mark>JSON</mark> configs, <mark>Bash</mark>, <mark>Python</mark> & <mark>C</mark>/<mark>C++</mark> code;
+          - soft skills, to find compromise solutions to any problem.
 
 
   - title: Past Contributions
