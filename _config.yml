@@ -77,7 +77,7 @@ content:
           - <mark>GitHub Actions</mark> under the hood;
           - _coding "tidiness"_ (implemented & powered by <mark>clang-format</mark>);
           - a lot of _"glue scripting"_ between makefiles, <mark>JSON</mark> configs, <mark>Bash</mark>, <mark>Python</mark> & <mark>C</mark>/<mark>C++</mark> code;
-          - soft skills, to find compromise solutions to any problem.
+          - soft skills, which help to find and develop acceptable & compromise solutions to problems together with the community.
 
 
   - title: Past Contributions
@@ -89,6 +89,10 @@ content:
         link_text: BatteryStatus
         sub_title: Developer & Maintainer
         caption: April 2010 - May 2011
+        additional_links:
+          - title:  Launchpad/BatteryStatus
+            icon: fab fa-ubuntu
+            url: https://launchpad.net/battery-status
         quote: >
           Graphical app to show all the details about a laptop battery in GTK-based GNU/Linux Desktop environments
         description: |
