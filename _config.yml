@@ -77,7 +77,29 @@ content:
           - <mark>GitHub Actions</mark> under the hood;
           - _coding "tidiness"_, implemented & powered by <mark>clang-format</mark> for <mark>C</mark>/<mark>C++</mark> and by linters for <mark>Bash</mark> & <mark>Python</mark>;
           - a lot of _"glue scripting"_ between makefiles, <mark>JSON</mark> configs, <mark>Bash</mark>, <mark>Python</mark> & <mark>C</mark>/<mark>C++</mark> code;
-          - soft skills, to find & develop acceptable & compromise solutions for problems with the community together.
+          - soft skills, to find & develop acceptable & compromise solutions for problems with the community together.  
+            
+
+
+
+
+      - layout: left
+        title: HydraFW
+        link: https://github.com/HydraBus/HydraFW
+        link_text: HydraFW by HydraBus
+        sub_title: Contributor
+        caption: Currently
+        additional_links:
+          - title:  HydraBus/HydraFW
+            icon: fab fa-github
+            url: https://github.com/HydraBus/HydraFW
+        quote: >
+          Open Source Firmware for HydraBus - OSHW-based hardware hacking multitool
+        description: |
+          I joined this project to improve `Makefile` since I was curious in a couple of aspects of _"toolchaining"_ the source code tree. But I ended up maintaining, refactoring & improving scripts in <mark>Bash</mark> & <mark>Python</mark>, bringing builds to <mark>GitHub Actions</mark> and styding source code to add a couple of features to the firwmare itself.
+            
+
+
 
 
   - title: Past Contributions
