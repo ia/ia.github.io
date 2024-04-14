@@ -35,17 +35,17 @@ additional_links:
 # about_title: About Me
 #?about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hello, friend. I'm just a regular average techie, but very curious one and this is my resume, community edition.  
+  Hello, friend. I'm just a regular average techie, but very curious one and this is my resume, community edition:  
 
 
 
 
-  - Natural languages: <mark>English</mark>, <mark>Russian</mark>.  
-  - Programming languages: <mark>Bash</mark>, <mark>C</mark>/<mark>C++</mark>, <mark>Python</mark>.  
-  - Operating systems: experience of tampering with <mark>Windows</mark>, <mark>MacOS</mark>, <mark>FreeBSD</mark>, <mark>ThreadX</mark>, <mark>QNX</mark>, <mark>Android</mark>, <mark>GNU/Linux</mark>.  
-  - System skills: <mark>POSIX</mark>, network programming (<mark>BSD sockets</mark> & <mark>WinSock</mark>), storage technologies & <mark>filesystems</mark>.  
-  - Hardware skills: tearing down <mark>embedded devices</mark>, id'ying components, reading <mark>schematics</mark>/<mark>datasheets</mark> & tampering with <mark>firmware</mark> sometimes.  
-  - Other related interests: <mark>network protocols</mark>, <mark>cryptography</mark>, <mark>security</mark>, <mark>DFIR</mark>, <mark>CI</mark>/<mark>CD</mark>, <mark>UX</mark>, <mark>scrum</mark>, <mark>agile</mark>.  
+  - natural languages: <mark>English</mark>, <mark>Russian</mark>;  
+  - programming languages: <mark>Bash</mark>, <mark>C</mark>/<mark>C++</mark>, <mark>Python</mark>;  
+  - operating systems: experience of tampering with <mark>Windows</mark>, <mark>MacOS</mark>, <mark>FreeBSD</mark>, <mark>ThreadX</mark>, <mark>QNX</mark>, <mark>Android</mark>, <mark>GNU/Linux</mark>;  
+  - system skills: <mark>POSIX</mark>, network programming (<mark>BSD sockets</mark> & <mark>WinSock</mark>), storage technologies & <mark>filesystems</mark>;  
+  - hardware skills: tearing down <mark>embedded devices</mark>, id'ying components, reading <mark>schematics</mark>/<mark>datasheets</mark> & tampering with <mark>firmware</mark> sometimes;  
+  - other related interests: <mark>network protocols</mark>, <mark>cryptography</mark>, <mark>security</mark>, <mark>DFIR</mark>, <mark>CI</mark>/<mark>CD</mark>, <mark>UX</mark>, <mark>scrum</mark>, <mark>agile</mark>.  
 
 
 
