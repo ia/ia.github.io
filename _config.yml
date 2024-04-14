@@ -44,6 +44,7 @@ about_content: | # this will include new lines to allow paragraphs
   - programming languages: <mark>Bash</mark>, <mark>C</mark>/<mark>C++</mark>, <mark>Python</mark>;  
   - operating systems: experience of tampering with <mark>Windows</mark>, <mark>MacOS</mark>, <mark>FreeBSD</mark>, <mark>ThreadX</mark>, <mark>QNX</mark>, <mark>Android</mark>, <mark>GNU/Linux</mark>;  
   - server management: basic knowledge of how to deploy, configure & maintain <mark>Nginx</mark>, <mark>Samba</mark>, <mark>OpenVPN</mark>, <mark>OpenSSH</mark>, <mark>TFTP</mark>;  
+  - development tools: <mark>GCC</mark> & <mark>LLVM</mark> <mark>toolchains</mark> usage for cross-compilation, porting & code sanitization;  
   - system skills: <mark>POSIX</mark>, network programming (<mark>BSD sockets</mark> & <mark>WinSock</mark>), storage technologies & <mark>filesystems</mark>;  
   - hardware skills: tearing down <mark>embedded devices</mark>, id'ying components, reading <mark>schematics</mark>/<mark>datasheets</mark> & tampering with <mark>firmware</mark> sometimes;  
   - other related interests: <mark>network protocols</mark>, <mark>cryptography</mark>, <mark>security</mark>, <mark>DFIR</mark>, <mark>CI</mark>/<mark>CD</mark>, <mark>UX</mark>, <mark>scrum</mark>, <mark>agile</mark>.  
