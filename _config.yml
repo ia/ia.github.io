@@ -94,7 +94,7 @@ content:
             icon: fab fa-github
             url: https://github.com/HydraBus/HydraFW
         quote: >
-          Open Source Firmware for HydraBus - OSHW-based hardware hacking multitool
+          Open Source Firmware for HydraBus - OSHW-based hardware hacking multitool.
         description: |
           I joined this project to improve <mark>Makefile</mark> since I was curious in a couple of aspects of _"toolchaining"_ the source code tree. But I ended up maintaining, refactoring & improving scripts in <mark>Bash</mark> & <mark>Python</mark>, bringing builds to <mark>GitHub Actions</mark> and styding source code to add a couple of features to the <mark>firmware</mark>.
             
@@ -116,7 +116,7 @@ content:
             icon: fab fa-ubuntu
             url: https://launchpad.net/battery-status
         quote: >
-          Graphical app to show all the details about a laptop battery in GTK-based GNU/Linux Desktop environments
+          Graphical app to show all the details about a laptop battery in GTK-based GNU/Linux Desktop environments.
         description: |
           This was my very first solo Open Source project which I started from scratch and made it to first stable release. This allowed me to get a lot of experience with such things as <mark>Launchpad</mark> infrastructure, <mark>Bazaar</mark> source control system, apt repos, <mark>deb</mark> packages, release cycles, <mark>GTK+</mark>, <mark>Python</mark>, <mark>PyGTK</mark>, <mark>DBus</mark> & <mark>UPower</mark>, UX & UI fundamental concepts.  
 
