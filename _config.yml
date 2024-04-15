@@ -98,7 +98,7 @@ content:
         quote: >
           Open Source Firmware for HydraBus - OSHW-based hardware hacking multitool.
         description: |
-          I joined this project to improve <mark>Makefile</mark> since I was curious in a couple of aspects of _"toolchaining"_ the source code tree. But I ended up maintaining, refactoring & improving scripts in <mark>Bash</mark> & <mark>Python</mark>, bringing builds to <mark>GitHub Actions</mark> and styding source code to add a couple of features to the <mark>firmware</mark>.
+          I joined this project to improve <mark>Makefile</mark> since I was curious in a couple of aspects of _"toolchaining"_ the source code tree. But I ended up maintaining, refactoring & improving scripts in <mark>Bash</mark> & <mark>Python</mark>, bringing builds to <mark>GitHub Actions</mark> and getting familiar with <mark>ChibiOS</mark> & HydraFW to add a couple of features to the <mark>firmware</mark>.
             
 
 
