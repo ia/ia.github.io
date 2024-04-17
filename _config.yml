@@ -89,6 +89,9 @@ content:
 
 
 
+  - title:
+    layout: list
+    content:
       - layout: left
         title: HydraFW
         link: https://github.com/HydraBus/HydraFW
