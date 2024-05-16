@@ -111,6 +111,28 @@ content:
 
 
 
+  - title:
+    layout: list
+    content:
+      - layout: left
+        title: femtocom
+        link: https://github.com/ia/femtocom
+        link_text: ia/femtocom
+        sub_title: Developer
+        caption: Currently
+        additional_links:
+          - title:  ia/femtocom
+            icon: fab fa-github
+            url: https://github.com/ia/femtocom
+        quote: >
+          Simple Bash-based wrapper-like scripting app for picocom terminal app.
+        description: |
+          .  
+            
+
+
+
+
   - title: Past Contributions
     layout: list
     content:
