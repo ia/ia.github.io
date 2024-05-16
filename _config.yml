@@ -127,7 +127,12 @@ content:
         quote: >
           Simple Bash-based wrapper-like scripting app for picocom terminal app.
         description: |
-          .  
+          This is one of my little projects which make life easier. I wrote this scripting app since I was getting tired of finding proper full device path name in <mark>/dev/</mark> and dealing with serial port configuration for every device I have using serial console app manually to access it. Now after installing <mark>picocom</mark>, configuring <mark>udev</mark>, configuring _INI_-like file for the script and using this script, I can get access to all of my pre-configured devices as easy as:  
+
+
+
+
+$ femtocom  DEVICE_ALIAS
             
 
 
