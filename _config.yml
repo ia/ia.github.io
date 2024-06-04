@@ -29,6 +29,9 @@ additional_links:
 - title: HomeLab
   icon: fas fa-microchip # font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
   url: https://h0melab.github.io
+- title: Blog
+  icon: fas fa-rss
+  url: https://ia.github.io/logs
 
 
 # About Section
