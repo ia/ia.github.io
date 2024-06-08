@@ -22,15 +22,19 @@ darkmode: false
 github_username: ia
 # flickr_username:
 # instagram_username:
-linkedin_username: ivzin
+#linkedin_username: ivzin
 
 
+# font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 additional_links:
-- title: HomeLab
-  icon: fas fa-microchip # font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-  url: https://h0melab.github.io
+#- title: HomeLab
+#  icon: fas fa-microchip
+#  url: https://h0melab.github.io
+#- title: CV
+#  icon: fas fa-file-invoice
+#  url: https://ia.github.io/cv
 - title: Blog
-  icon: fas fa-rss
+  icon: fas fa-i-cursor
   url: https://ia.github.io/log/
 
 
