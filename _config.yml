@@ -34,7 +34,7 @@ additional_links:
 #  icon: fas fa-file-invoice
 #  url: https://ia.github.io/cv
 - title: GitHub
-  icon: fas fa-github
+  icon: fab fa-github
   url: https://github.com/ia
 - title: Blog
   icon: fas fa-i-cursor
@@ -54,7 +54,7 @@ about_content: | # this will include new lines to allow paragraphs
   - programming languages: <mark>Bash</mark>, <mark>C</mark>/<mark>C++</mark>, <mark>Python</mark>;
   - operating systems: experience of tampering with <mark>Windows</mark>, <mark>MacOS</mark>, <mark>FreeBSD</mark>, <mark>ThreadX</mark>, <mark>QNX</mark>, <mark>Android</mark>, <mark>GNU/Linux</mark>;
   - server management: basic knowledge of how to deploy, configure & maintain <mark>Nginx</mark>, <mark>Samba</mark>, <mark>OpenVPN</mark>, <mark>OpenSSH</mark>, <mark>TFTP</mark>;
-  - web: minimal level of <mark>HTML</mark>/<mark>CSS</mark>/<mark>JavaScript</mark> & <mark>Jekyll</mark>/<mark>Liquid</mark> to make clean, lightweight & elegant static sites;
+  - web: minimal level of <mark>HTML</mark>/<mark>CSS</mark>/<mark>JavaScript</mark> and <mark>Jekyll</mark>/<mark>Liquid</mark>/<mark>YAML</mark> to make clean, lightweight & elegant static sites;
   - testing: <mark>QA</mark> experience by implementing test cases, filling reports & making custom hardware test stands to verify hardware-level software;
   - development tools: <mark>GCC</mark> & <mark>LLVM</mark> <mark>toolchains</mark> usage for cross-compilation, porting and code sanitization;
   - system skills: <mark>POSIX</mark>, network programming (<mark>BSD sockets</mark> & <mark>WinSock</mark>) and packet routing, storage technologies & <mark>filesystems</mark>;
