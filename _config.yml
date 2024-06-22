@@ -185,7 +185,7 @@ content:
       - Hardware Maintainance & Repair, heavily influenced by [unimaginable contributions](https://en.wikipedia.org/wiki/Right_to_repair) from [Kyle Wiens](https://kylewiens.com)' [iFixit](https://www.ifixit.com) & [Louis Rossmann](https://www.youtube.com/@rossmanngroup) to the society;
       - Digital Photography (without any post-processing) like this:
 
-      ![Rivercity](/images/rivercity.jpg)
+      <div style="text-align:center;"><img src="/images/rivercity.png" alt="Rivercity"></div>
 
 
 # Footer
