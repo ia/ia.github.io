@@ -61,7 +61,7 @@ about_content: | # this will include new lines to allow paragraphs
   - testing: deep <mark>SDET</mark>/<mark>QA</mark> automation experience by developing test tools and making custom hardware stands to test & verify system software;
   - development tools: <mark>GCC</mark> & <mark>LLVM</mark> <mark>toolchains</mark> usage for cross-compilation, porting and code sanitization;
   - system skills: <mark>POSIX</mark>, network programming (<mark>BSD sockets</mark> & <mark>WinSock</mark>) and packet routing, storage technologies & <mark>filesystems</mark>;
-  - hardware skills: tearing down <mark>embedded devices</mark>, id'ying components, reading <mark>schematics</mark> & <mark>datasheets</mark>, dumping & analyzing <mark>firmware</mark>;
+  - hardware skills: tearing down <mark>embedded devices</mark>, id'ying components, reading <mark>schematics</mark> & <mark>datasheets</mark>, extracting & analyzing <mark>firmware</mark>;
   - other related interests: <mark>soldering</mark>, <mark>network protocols</mark>, <mark>cryptography</mark>, <mark>security</mark>, <mark>DFIR</mark>, <mark>CI</mark>/<mark>CD</mark>, <mark>UX</mark>/<mark>design</mark>, <mark>scrum</mark>/<mark>kanban</mark>/<mark>agile</mark>.  
 
 
