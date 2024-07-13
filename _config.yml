@@ -138,7 +138,7 @@ content:
         additional_links:
           - title:  ia/femtocom
             icon: fab fa-github
-            url: https://github.com/ia/femtocom
+            url: https://github.com/ia/femtocom/commits/main
         quote: >
           Simple Bash-based wrapper-like scripting app for picocom terminal app.
         description: |
