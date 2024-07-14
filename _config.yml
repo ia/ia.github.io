@@ -9,7 +9,13 @@ version: 2
 
 # Personal info
 name: Ivan Zorin
-title: System Engineer
+title: |
+  System Engineer
+  Open Source Developer
+  Independent Researcher
+  Community Manager
+
+
 #email: no-spam-please-no-please-no
 #website: https://github.com/ia/modern-resume-theme
 
