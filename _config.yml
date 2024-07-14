@@ -114,9 +114,9 @@ content:
         sub_title: Contributor
         caption: Currently
         additional_links:
-          - title:  HydraBus/HydraFW
+          - title:  Contribution
             icon: fab fa-github
-            url: https://github.com/HydraBus/HydraFW
+            url: https://github.com/hydrabus/hydrafw/pulls?q=is%3Apr+is%3Aclosed+author%3Aia
         quote: >
           Open Source Firmware for HydraBus — OSHW-based hardware hacking multitool.
         description: |
