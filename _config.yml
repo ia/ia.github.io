@@ -2,17 +2,19 @@
 repository: ia/modern-resume-theme
 favicon: images/cli.ico
 
+
 # Content configuration version
 version: 2
 
 
 # Personal info
 name: Ivan Zorin
-title: |
-  System Engineer
-  Open Source Developer
-  Independent Researcher
-  Community Manager
+title: <ul><li>System Engineer</li><li>Open Source Developer</li><li>Independent Researcher</li><li>Community Manager</li><ul>
+#title: |
+#  System Engineer
+#  Open Source Developer
+#  Independent Researcher
+#  Community Manager
 
 
 #email: no-spam-please-no-please-no
