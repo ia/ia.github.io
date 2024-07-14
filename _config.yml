@@ -83,9 +83,9 @@ content:
         sub_title: Official Maintainer
         caption: Currently
         additional_links:
-          - title:  Ralim/IronOS
+          - title:  Contribution
             icon: fab fa-github
-            url: https://github.com/Ralim/IronOS
+            url: https://github.com/Ralim/IronOS/pulls?q=is%3Apr+is%3Aclosed+author%3Aia
         quote: >
           Open Source Firmware for Smart Soldering Irons from Pine64, Miniware/Morningtools and Sequre.
         description: |
