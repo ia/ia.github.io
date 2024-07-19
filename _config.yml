@@ -69,7 +69,7 @@ about_content: | # this will include new lines to allow paragraphs
   - web: minimal level of <mark>HTML</mark>/<mark>CSS</mark>/<mark>JavaScript</mark> and <mark>Jekyll</mark>/<mark>Liquid</mark>/<mark>YAML</mark> to make clean, lightweight & elegant static sites;
   - testing: deep <mark>SDET</mark>/<mark>QA</mark> automation experience by developing test tools and making custom hardware stands to test & verify system software;
   - development tools: <mark>GCC</mark> and <mark>LLVM</mark> <mark>toolchains</mark> usage for cross-compilation, porting & code sanitization;
-  - system skills: <mark>POSIX</mark>, network programming (<mark>BSD sockets</mark> & <mark>WinSock</mark>) and packet routing, storage technologies & <mark>filesystems</mark>;
+  - system skills: <mark>POSIX</mark>, network programming (<mark>BSD sockets</mark> & <mark>WinSock</mark>) and packet routing, <mark>storage</mark> technologies & <mark>filesystems</mark>;
   - hardware skills: tearing down <mark>embedded devices</mark>, id'ying components, reading <mark>schematics</mark> & <mark>datasheets</mark>, extracting & analyzing <mark>firmware</mark>;
   - other related interests: <mark>soldering</mark>, <mark>network protocols</mark>, <mark>cryptography</mark>, <mark>security</mark>, <mark>DFIR</mark>, <mark>CI</mark>/<mark>CD</mark>/<mark>SSDLC</mark>, <mark>UX</mark>/<mark>design</mark>, <mark>scrum</mark>/<mark>kanban</mark>/<mark>agile</mark>.  
 
