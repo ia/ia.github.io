@@ -104,9 +104,9 @@ content:
           - <mark>FreeRTOS</mark> fundamentals;
           - <mark>Docker</mark> basics;
           - <mark>GitHub Actions</mark> under the hood;
-          - _coding "tidiness"_, implemented & powered by <mark>clang-format</mark> for <mark>C</mark>/<mark>C++</mark> and by linters for <mark>Bash</mark> & <mark>Python</mark>;
-          - a lot of _"glue scripting"_ between makefiles, <mark>JSON</mark> configs, <mark>Bash</mark>, <mark>Python</mark> & <mark>C</mark>/<mark>C++</mark> code;
-          - minor refactoring of <mark>C</mark>/<mark>C++</mark> code & adding new features;
+          - _coding "tidiness"_, implemented & powered by <mark>clang-format</mark> for <mark>C</mark> & <mark>C++</mark> and by linters for <mark>Bash</mark> & <mark>Python</mark>;
+          - a lot of _"glue scripting"_ between makefiles, <mark>JSON</mark> configs, <mark>Bash</mark>, <mark>Python</mark> & <mark>C</mark> & <mark>C++</mark> code;
+          - minor refactoring of <mark>C</mark> & <mark>C++</mark> code & adding new features;
           - <mark>soft skills</mark>, to find & develop acceptable & compromise solutions for problems with the community together.  
             
 
