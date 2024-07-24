@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>ia</ShortName>
+  <Description>Ivan Zorin | System Engineer</Description>
+  <Tags>c c++ gnulinux linux bash macos osx macosx darwin mach bsd freebsd qnx android python security design windows nt network jekyll yaml html css sdet qa gcc llvm posix network storage filesystems embedded soldering radio protocols cryptography dfir ci cd ssdlc ux</Tags>
+  <!--  <Contact></Contact> -->
+  <Url type="application/atom+xml" template="https://ia.github.io/log/feed.xml"/>
+  <LongName>System Logging</LongName>
+  <Image height="32" width="32" type="image/ico">https://ia.github.io/images/cli.ico</Image>
+  <Developer>Ivan Zorin</Developer>
+  <Attribution>Copyleft 2024, Ivan Zorin, Some Rights Reserved</Attribution>
+  <SyndicationRight>open</SyndicationRight>
+  <AdultContent>false</AdultContent>
+  <Language>en-us</Language>
+  <OutputEncoding>UTF-8</OutputEncoding>
+  <InputEncoding>UTF-8</InputEncoding>
+</OpenSearchDescription>
