@@ -200,7 +200,7 @@ content:
 # Footer
 footer_show_references: true
 references_title: copyleft © 2024 (some rights reserved) // CC BY-NC-ND 4.0 unless stated otherwise.
-
+footer_text: • copyleft © 2024 (some rights reserved) • Ivan Zorin • CC BY-NC-ND 4.0 unless stated otherwise •
 
 # Build settings
 remote_theme: ia/modern-resume-theme
