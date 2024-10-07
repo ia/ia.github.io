@@ -96,7 +96,7 @@ content:
             icon: fab fa-github
             url: https://github.com/Ralim/IronOS/pulls?q=is%3Apr+is%3Aclosed+author%3Aia
         quote: >
-          Open Source Firmware for Soldering Hardware from Pine64, Miniware/Morningtools and Sequre.
+          Open Source Firmware for Soldering Hardware from Pine64, Miniware/Morningtools, and Sequre.
         description: |
           I joined this project with a couple of patches to improve the experience with my <mark>TS80P</mark>, but definitely have found way much more than just that, such as a lot of wonderful people & very interesting knowledge from them. Gained skills are (but not limited to):
           - getting familiar with <mark>STM</mark>'based MCUs;
