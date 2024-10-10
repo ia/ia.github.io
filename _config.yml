@@ -159,6 +159,30 @@ content:
 
 
 
+  - title: Talks
+    layout: list
+    content:
+      - layout: left
+        title: offzone 24
+        link: https://github.com/ia/talks/tree/main/offzone24
+        link_text: talks/offzone24
+        sub_title: Researcher, Author & Speaker
+        caption: August 23, 2024
+        additional_links:
+          - title:  talk info
+            icon: far fa-file-lines
+            url: https://offzone.moscow/eng/program/ne-bezopasnost-ustroystv-interneta-veshchey-na-primere-nebolshogo-issledovaniya/
+        quote: >
+          Researching a multiprotocol USB modem, or Why “S” in IoT still stands for “Security”
+        description: |
+          Despite unprecedented security incidents with such “IoT” botnets as Mirai, there are still many devices whose security leaves much to be desired. And with a very particular set of skills and some luck, an unsafe device can be turned into an “attack vector” for other devices. Sometimes it is not at all necessary to have hardcore skills in hardware analysis and reverse engineering.  
+
+
+          The talk was intended for a wide range of specialists interested in firmware security. It was overview of the modern device with the hints how to use common software tools for analyzing GNU/Linux‑based firmware for embedded hardware.  
+
+
+
+
   - title: Past Contributions
     layout: list
     content:
