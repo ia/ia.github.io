@@ -88,7 +88,7 @@ content:
       - layout: left
         title: IronOS
         link: https://github.com/Ralim/IronOS
-        link_text: IronOS by Ralim
+        link_text: <u>IronOS by Ralim</u>
         sub_title: Official Maintainer
         caption: Currently
         additional_links:
@@ -119,7 +119,7 @@ content:
       - layout: left
         title: HydraFW
         link: https://github.com/HydraBus/HydraFW
-        link_text: HydraFW by HydraBus
+        link_text: <u>HydraFW by HydraBus</u>
         sub_title: Contributor
         caption: Currently
         additional_links:
@@ -141,7 +141,7 @@ content:
       - layout: left
         title: femtocom
         link: https://github.com/ia/femtocom
-        link_text: ia/femtocom
+        link_text: <u>ia/femtocom</u>
         sub_title: Developer & Maintainer
         caption: Currently
         additional_links:
@@ -165,7 +165,7 @@ content:
       - layout: left
         title: offzone 24
         link: https://github.com/ia/talks/tree/main/offzone24
-        link_text: talks/offzone24
+        link_text: <u>talks/offzone24</u>
         sub_title: Researcher, Author & Speaker
         caption: August 23, 2024
         additional_links:
@@ -189,7 +189,7 @@ content:
       - layout: left
         title: Battery Status
         link: https://wiki.gnome.org/Attic/BatteryStatus
-        link_text: BatteryStatus
+        link_text: <u>BatteryStatus</u>
         sub_title: Developer & Maintainer
         caption: April 2010 — May 2011
         additional_links:
