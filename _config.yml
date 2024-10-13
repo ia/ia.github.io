@@ -189,7 +189,7 @@ content:
       - layout: left
         title: CyanogenMod
         link: https://github.com/ia/android_system_vold/commit/62419cd8353d9b32e466ca2463c184d91b3879eb
-        link_text: system/vold patch
+        link_text: <u>system/vold</u>
         sub_title: Developer & QA Engineer
         caption: August - October, 2015
         additional_links:
