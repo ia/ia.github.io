@@ -111,8 +111,6 @@ content:
             
 
 
-
-
   - title:
     layout: list
     content:
@@ -131,8 +129,6 @@ content:
         description: |
           I joined this project to improve `Makefile` since I was curious in a couple of aspects of _"tooling"_ the source code tree. But I ended up maintaining, refactoring & improving scripts in <mark>Bash</mark> & <mark>Python</mark>, bringing builds to <mark>GitHub Actions</mark> and getting familiar with <mark>ChibiOS</mark> to add a couple of features to the <mark>firmware</mark>.  
             
-
-
 
 
   - title:
@@ -179,6 +175,7 @@ content:
 
 
           The talk was intended for a wide range of specialists interested in <mark>firmware security</mark>. It was overview of the modern device with the hints how to use common software tools for analyzing GNU/Linux‑based firmware for embedded hardware.  
+            
 
 
 
@@ -203,8 +200,7 @@ content:
 
 
           The problem did occur because in system/vold the system call (through device-mapper related crypto API into the kernel space) wasn't compatible with out-of-dated 3.x Linux kernel since user space code in system/vold relied on more updated kernel versions. Therefore, adding backward compatibility in system/vold for 3.x kernel did solve the issue.  
-
-
+            
 
 
   - title:
@@ -229,6 +225,9 @@ content:
           Once the app has been tested & released, the project has been frozen since it's reached its goal and I just didn't have enough of time back then catching up with transitions like GTK2⇒GTK3 & GNOME2⇒GNOME3.  
 
           <div style="text-align:center;"><img src="/images/batterystatus.png" alt="BatteryStatus"></div>
+            
+
+
 
 
   - title: A Little More About Me
@@ -243,6 +242,9 @@ content:
       - Digital Photography (without any post-processing) like this:
 
       <div style="text-align:center;"><img src="/images/rivercity.jpg" alt="Rivercity"></div>
+            
+
+
 
 
 # Footer
