@@ -187,6 +187,30 @@ content:
     layout: list
     content:
       - layout: left
+        title: CyanogenMod
+        link: https://github.com/ia/android_system_vold/commit/62419cd8353d9b32e466ca2463c184d91b3879eb
+        link_text: system/vold patch
+        sub_title: Developer & QA Engineer
+        caption: August - October, 2015
+        additional_links:
+          - title:  XDA Post
+            icon: fab fa-android
+            url: https://xdaforums.com/t/rom-5-1-1-official-cyanogenmod-12-1.2958865/page-157#post-62554113
+        quote: >
+          system/vold patch for backward compatibility of Full Disk Encryption in Cyanogenmod 12.1 with 3.x Linux kernel
+        description: |
+          I had Google Galaxy Nexus back than and since I prefer to use my devices as long as they last, I had to build slightly custom AOSP-based CyanogenMod firmware for my device. But FDE didn't work properly. I had to test, trace & triage the root cause of the issue and fix it.  
+
+
+          The problem did occur because in system/vold the system call (through device-mapper related crypto API into the kernel space) wasn't compatible with out-of-dated 3.x Linux kernel since user space code in system/vold relied on more updated kernel versions. Therefore, adding backward compatibility in system/vold for 3.x kernel did solve the issue.  
+
+
+
+
+  - title:
+    layout: list
+    content:
+      - layout: left
         title: Battery Status
         link: https://wiki.gnome.org/Attic/BatteryStatus
         link_text: <u>BatteryStatus</u>
