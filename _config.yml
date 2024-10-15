@@ -182,6 +182,31 @@ content:
           
 
 
+  - title:
+    layout: list
+    content:
+      - layout: left
+        title: Battery Status
+        link: https://wiki.gnome.org/Attic/BatteryStatus
+        link_text: <u>BatteryStatus</u>
+        sub_title: Developer & Maintainer
+        caption: April, 2010 — May, 2011
+        additional_links:
+          - title:  Launchpad/BatteryStatus
+            icon: fab fa-ubuntu
+            url: https://launchpad.net/battery-status
+        quote: >
+          Graphical app to show all the details about a laptop battery in GTK-based GNU/Linux Desktop environments.
+        description: |
+          This was my very first solo Open Source project which I started from scratch and made it to the first official stable release. This allowed me to get a lot of experience with such things as <mark>Launchpad</mark> infrastructure, <mark>Bazaar</mark> SCM, <mark>apt</mark> repos, <mark>deb</mark> packages, release cycles, <mark>GTK+</mark>, <mark>Python</mark>, <mark>PyGTK</mark>, <mark>D-Bus</mark> & <mark>UPower</mark>, <mark>UX</mark> & <mark>UI</mark> fundamental concepts.  
+
+
+          Once the app has been tested & released, the project has been frozen since it's reached its goal and I just didn't have enough of time back then catching up with transitions like GTK2⇒GTK3 & GNOME2⇒GNOME3.  
+
+          <div style="text-align:center;"><img src="/images/batterystatus.png" alt="BatteryStatus"></div>
+            
+
+
 
 
   - title: Talks
@@ -229,31 +254,6 @@ content:
 
 
           The problem did occur because in `system/vold` a system call (through `device-mapper` related _crypto API_ into the kernel space) wasn't compatible with out-of-dated _3.x Linux kernel_ since user space code in `system/vold` relied on more updated kernel versions. Therefore, implementing a workaround patch for `system/vold` with backward compatibility of _3.x Linux kernel_ did solve the issue.  
-            
-
-
-  - title:
-    layout: list
-    content:
-      - layout: left
-        title: Battery Status
-        link: https://wiki.gnome.org/Attic/BatteryStatus
-        link_text: <u>BatteryStatus</u>
-        sub_title: Developer & Maintainer
-        caption: April, 2010 — May, 2011
-        additional_links:
-          - title:  Launchpad/BatteryStatus
-            icon: fab fa-ubuntu
-            url: https://launchpad.net/battery-status
-        quote: >
-          Graphical app to show all the details about a laptop battery in GTK-based GNU/Linux Desktop environments.
-        description: |
-          This was my very first solo Open Source project which I started from scratch and made it to the first official stable release. This allowed me to get a lot of experience with such things as <mark>Launchpad</mark> infrastructure, <mark>Bazaar</mark> SCM, <mark>apt</mark> repos, <mark>deb</mark> packages, release cycles, <mark>GTK+</mark>, <mark>Python</mark>, <mark>PyGTK</mark>, <mark>D-Bus</mark> & <mark>UPower</mark>, <mark>UX</mark> & <mark>UI</mark> fundamental concepts.  
-
-
-          Once the app has been tested & released, the project has been frozen since it's reached its goal and I just didn't have enough of time back then catching up with transitions like GTK2⇒GTK3 & GNOME2⇒GNOME3.  
-
-          <div style="text-align:center;"><img src="/images/batterystatus.png" alt="BatteryStatus"></div>
             
 
 
