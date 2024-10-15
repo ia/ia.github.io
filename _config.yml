@@ -153,6 +153,35 @@ content:
             
 
 
+  - title:
+    layout: list
+    content:
+      - layout: left
+        title: connect
+        link: https://github.com/ia/connect
+        link_text: <u>ia/connect</u>
+        sub_title: Developer, Researcher & Maintainer
+        caption: Currently
+        additional_links:
+          - title:  ia/connect
+            icon: fab fa-github
+            url: https://github.com/ia/connect/commits/master
+        quote: >
+          Tiny & portable fully cross-platform experimental network API library.
+        description: |
+          This is one of my oldest projects which I still try to keep afloat. The idea is to make `busybox`/`toybox`, but for network tools only, so `ping`, `netcat` or custom `tcpdump` utilities could be implemented using this library API with less then ten <mark>C</mark> calls for major operating systems including (but not limited to) <mark>GNU/Linux</mark>, <mark>FreeBSD</mark>, <mark>MacOS</mark>, <mark>QNX</mark>, <mark>Windows</mark>.  
+          
+          This project did help me a lot to learn many network basic technologies and _API_ such as (but not limited to):
+          - foundations of _TCP/IP_ network model & common network protocols;
+          - common <mark>UNIX</mark> network _API_: <mark>BSD sockets</mark> (`socket`, `bind`, `listen`, `accept`, `recv`, `send`);
+          - <mark>GNU/Linux</mark> network _API_: <mark>PF_PACKET</mark>/<mark>SOCK_RAW</mark>, <mark>epoll</mark>, <mark>skbuff</mark>, <mark>netlink</mark>, <mark>netfilter</mark>;
+          - <mark>FreeBSD</mark>/<mark>MacOS</mark> network _API_: <mark>bpf</mark>, <mark>kqueue</mark>;
+          - <mark>Windows</mark> network _API_: _Windows Sockets_ (<mark>WSA</mark>), <mark>NDIS</mark>;
+          - `make` build systems for major operating systems including `nmake` for <mark>Windows</mark>;
+          - rich <mark>C</mark> macros to write & build trully portable code without any modding from the side of a library _user_.  
+          
+
+
 
 
   - title: Talks
