@@ -228,7 +228,7 @@ content:
           Despite unprecedented security incidents with such _IoT botnets_ as _Mirai_, there are still many devices whose security leaves much to be desired. And with a very particular set of skills and some luck, an unsafe device can be turned into an _"attack vector"_ for other devices. Sometimes it is not at all necessary to have hardcore skills in hardware analysis and reverse engineering.  
 
 
-          The talk was intended for a wide range of specialists interested in <mark>firmware security</mark>. It was overview of the modern device with the hints how to use common software tools for analyzing GNU/Linux‑based firmware for embedded hardware.  
+          The talk was intended for a wide range of specialists interested in <mark>firmware security</mark>. It was overview of the modern device with the hints how to use common software tools for analyzing GNU/Linux'based firmware for embedded hardware.  
             
 
 
@@ -250,7 +250,7 @@ content:
         quote: >
           system/vold patch for backward compatibility of Full Disk Encryption in CyanogenMod 12.1 with 3.x Linux kernel.
         description: |
-          I had _Google Galaxy Nexus_ back then, and since I prefer to use my devices as long as they last, I had to build slightly custom <mark>AOSP</mark>-based CyanogenMod <mark>firmware</mark> for my device. But <mark>FDE</mark> didn't work properly. I had to trace & triage the root cause of the issue to fix it.  
+          I had _Google Galaxy Nexus_ back then, and since I prefer to use my devices as long as they last, I had to build slightly custom <mark>AOSP</mark>'based CyanogenMod <mark>firmware</mark> for my device. But <mark>FDE</mark> didn't work properly. I had to trace & triage the root cause of the issue to fix it.  
 
 
           The problem did occur because in `system/vold` a system call (through `device-mapper` related _crypto API_ into the kernel space) wasn't compatible with out-of-dated _3.x Linux kernel_ since user space code in `system/vold` relied on more updated kernel versions. Therefore, implementing a workaround patch for `system/vold` with backward compatibility of _3.x Linux kernel_ did solve the issue.  
