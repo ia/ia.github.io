@@ -225,10 +225,10 @@ content:
         quote: >
           Researching a multiprotocol USB modem, or Why “S” in IoT still stands for “Security”.
         description: |
-          Despite unprecedented security incidents with such _IoT botnets_ as _Mirai_, there are still many devices whose security leaves much to be desired. And with a very particular set of skills and some luck, an unsafe device can be turned into an _"attack vector"_ for other devices. Sometimes it is not at all necessary to have hardcore skills in hardware analysis and reverse engineering.  
+          Despite unprecedented security incidents with such _IoT botnets_ as _Mirai_, there are still many devices whose security leaves much to be desired. And with a very particular set of skills and some luck, an unsafe device can be turned into an _"attack vector"_ for other devices. Sometimes it is not at all necessary to have hardcore skills in hardware analysis and rэvэrsэ engineering.  
 
 
-          The talk was intended for a wide range of specialists interested in <mark>firmware security</mark>. It was overview of the modern device with the hints how to use common software tools for analyzing GNU/Linux'based firmware for embedded hardware.  
+          The talk was intended for a wide range of specialists interested in <mark>firmware security</mark>. It was overview of the modern device with the hints how to use common software tools for analyzing <mark>GNU/Linux</mark>'based firmware for <mark>embedded hardware</mark>.  
             
 
 
