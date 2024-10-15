@@ -90,7 +90,7 @@ content:
         link: https://github.com/Ralim/IronOS
         link_text: <u>IronOS by Ralim</u>
         sub_title: Official Maintainer
-        caption: Currently
+        caption: May, 2023 — currently
         additional_links:
           - title:  Contribution
             icon: fab fa-github
@@ -119,7 +119,7 @@ content:
         link: https://github.com/HydraBus/HydraFW
         link_text: <u>HydraFW by HydraBus</u>
         sub_title: Contributor
-        caption: Currently
+        caption: November, 2023 — currently
         additional_links:
           - title:  Contribution
             icon: fab fa-github
@@ -139,7 +139,7 @@ content:
         link: https://github.com/ia/femtocom
         link_text: <u>ia/femtocom</u>
         sub_title: Developer & Maintainer
-        caption: Currently
+        caption: October, 2023 — currently
         additional_links:
           - title:  ia/femtocom
             icon: fab fa-github
@@ -161,7 +161,7 @@ content:
         link: https://github.com/ia/connect
         link_text: <u>ia/connect</u>
         sub_title: Developer, Researcher & Maintainer
-        caption: Currently
+        caption: December, 2012 — currently
         additional_links:
           - title:  ia/connect
             icon: fab fa-github
@@ -217,7 +217,7 @@ content:
         link: https://github.com/ia/android_system_vold/commit/62419cd8353d9b32e466ca2463c184d91b3879eb
         link_text: <u>system/vold</u>
         sub_title: Developer & QA Engineer
-        caption: August - October, 2015
+        caption: August — October, 2015
         additional_links:
           - title:  XDA Post
             icon: fab fa-android
@@ -240,7 +240,7 @@ content:
         link: https://wiki.gnome.org/Attic/BatteryStatus
         link_text: <u>BatteryStatus</u>
         sub_title: Developer & Maintainer
-        caption: April 2010 — May 2011
+        caption: April, 2010 — May, 2011
         additional_links:
           - title:  Launchpad/BatteryStatus
             icon: fab fa-ubuntu
