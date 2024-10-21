@@ -203,7 +203,7 @@ content:
 
           Once the app has been tested & released, the project has been frozen since it's reached its goal and I just didn't have enough of time back then catching up with transitions like <mark>GTK2</mark> ⇒ <mark>GTK3</mark> & <mark>GNOME2</mark> ⇒ <mark>GNOME3</mark>.  
 
-          <div style="text-align:center;"><img src="/images/batterystatus.png" alt="BatteryStatus"></div>
+          <div style="text-align:center;"><a href="https://launchpad.net/battery-status" target="_blank"><img src="/images/batterystatus.png" alt="BatteryStatus"></a></div>
             
 
 
