@@ -213,7 +213,7 @@ content:
     layout: list
     content:
       - layout: left
-        title: offzone 24
+        title: OFF ZONE 24
         link: https://github.com/ia/talks/tree/main/offzone24
         link_text: <u>talks/offzone24</u>
         sub_title: Researcher, Author & Speaker
