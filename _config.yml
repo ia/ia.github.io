@@ -259,6 +259,29 @@ content:
             
 
 
+  - title:
+    layout: list
+    content:
+      - layout: left
+        title: Unity
+        link: https://bugs.launchpad.net/ubuntu/+source/unity/+bug/789979
+        link_text: <u>Ubuntu/Unity</u>
+        sub_title: Developer & QA Engineer
+        caption: May — June, 2012
+        additional_links:
+          - title: Bazaar feature branch with the patch
+            icon: fas fa-code-pull-request
+            url: https://code.launchpad.net/~iaz/unity/menubar-lp789979
+        quote: >
+          Patch for Ubuntu-based Unity Desktop Environment to show global menu all the time.
+        description: |
+          I used to use _Unity Desktop Environment_ back then, but there was a problem which was ruining the whole <mark>UX</mark> concept of _global menu_: the menu was fading away when wasn't active on focus. Without changing nor breaking anything else, I did utilize already existed options & values to add the ability for showing main menu always as an option.  
+
+
+          My patch haven't been added to the upstream nor even considered for some reason, but _Unity_ core developers implemented this feature independently [only three years later](https://bugs.launchpad.net/ayatana-design/+bug/955193).  
+            
+
+
 
 
   - title: A Little More About Me
