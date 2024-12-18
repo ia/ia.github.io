@@ -189,7 +189,7 @@ content:
         title: Battery Status
         link: https://wiki.gnome.org/Attic/BatteryStatus
         link_text: <u>BatteryStatus</u>
-        sub_title: Developer & Maintainer
+        sub_title: Developer, Designer & Maintainer
         caption: April, 2010 — May, 2011
         additional_links:
           - title:  Launchpad/BatteryStatus
