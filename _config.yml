@@ -278,7 +278,7 @@ content:
           I used to use _Unity Desktop Environment_ back then, but there was a problem which was ruining the whole <mark>UX</mark> concept of _global menu_: the menu was fading away when wasn't active on focus. Without changing nor breaking anything else, I did utilize already existed options & values to add the ability for showing main menu always as an option.  
 
 
-          My patch haven't been added to the upstream nor even considered for some reason, but _Unity_ core developers implemented this feature independently [only three years later](https://bugs.launchpad.net/ayatana-design/+bug/955193).  
+          My patch haven't been added to the upstream nor even considered for some reason, but _Unity_ core developers implemented this feature independently [_only three years later_](https://bugs.launchpad.net/ayatana-design/+bug/955193).  
             
 
 
@@ -293,7 +293,7 @@ content:
       - Microelectronics;
       - Multitools & related EDC portable gear;
       - Communities of hackspaces, information technology/security conferences, meetups & events;
-      - Hardware Maintainance & Repair, heavily influenced by [unimaginable contributions](https://en.wikipedia.org/wiki/Right_to_repair) from [Kyle Wiens](https://kylewiens.com)' [iFixit](https://www.ifixit.com) & [Louis Rossmann](https://www.youtube.com/@rossmanngroup) to the society;
+      - Hardware Maintainance & Repair, heavily influenced by [_unimaginable contributions_](https://en.wikipedia.org/wiki/Right_to_repair) from [_Kyle Wiens_](https://kylewiens.com)' [_iFixit_](https://www.ifixit.com) & [_Louis Rossmann_](https://www.youtube.com/@rossmanngroup) to the society;
       - Digital Photography (without any post-processing) like this:
 
       <div style="text-align:center;"><img src="/images/rivercity.jpg" alt="Rivercity"></div>
