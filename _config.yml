@@ -115,6 +115,26 @@ content:
     layout: list
     content:
       - layout: left
+        title: blisp
+        link: https://github.com/PINE64/blisp
+        link_text: blisp by PINE64
+        sub_title: Contributor
+        caption: December, 2024 — currently
+        additional_links:
+          - title:  PINE64/blisp
+            icon: fab fa-github
+            url: https://github.com/PINE64/blisp/pulls?q=is%3Apr+is%3Aclosed+author%3Aia
+        quote: >
+          Open Source Bouffalo Labs In-System-Programming tool to flash Bouffalo RISC-V MCUs.
+        description: |
+          While working on _IronOS_, I thought how else I could help and be useful with other related projects. So I got my hands on _blisp_ to use some of my knowledge there as well. In return I get more deep knowledge of _"tooling"_ using <mark>GitHub Actions</mark> and <mark>CMake</mark> build system.  
+            
+
+
+  - title:
+    layout: list
+    content:
+      - layout: left
         title: HydraFW
         link: https://github.com/HydraBus/HydraFW
         link_text: <u>HydraFW by HydraBus</u>
