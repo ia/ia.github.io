@@ -167,9 +167,9 @@ content:
         quote: >
           Simple Bash-based wrapper-like scripting app for picocom terminal app.
         description: |
-          This is one of my little projects which make life easier. I wrote this <mark>Bash</mark> scripting app since I was getting tired of finding proper full path names for devices in `/dev` and dealing with serial port configuration for every device I have using serial console app manually to access it. Now after installing <mark>picocom</mark>, configuring <mark>udev</mark> & _INI_-like file for the script once, I can get access to all of my pre-configured devices as easy as `$ femtocom  DEVICE_ALIAS` when any of them are just plugged in.
+          This is one of my little projects which make life easier. I wrote this <mark>Bash</mark> scripting app since I was getting tired of finding proper full path names for devices in `/dev` and dealing with serial port configuration for every device I have using serial console app manually to access it. Now after installing <mark>picocom</mark>, configuring <mark>udev</mark> & _INI_-like file for the script once, I can get access to all of my pre-configured devices as easy as `$ femtocom  DEVICE_ALIAS` when any of them are just plugged in.  
 
-          <div style="text-align:center;"><a href="https://github.com/ia/femtocom" target="_blank"><img src="/images/femtocom.png" alt="femtocom"></a></div>
+          <div style="text-align:center;"><a href="https://github.com/ia/femtocom" target="_blank"><img src="/images/femtocom.png" alt="femtocom"></a></div>  
             
 
 
@@ -199,7 +199,7 @@ content:
           - <mark>Windows</mark> network _API_: _Windows Sockets_ (<mark>WSA</mark>), <mark>NDIS</mark>;
           - `make` build systems for major operating systems including `nmake` for <mark>Windows</mark>;
           - rich <mark>C</mark> macros to write & build trully portable code without any modding from the side of a library _user_.  
-          
+            
 
 
   - title:
@@ -223,7 +223,7 @@ content:
 
           Once the app has been tested & released, the project has been frozen since it's reached its goal and I just didn't have enough of time back then catching up with transitions like <mark>GTK2</mark> ⇒ <mark>GTK3</mark> & <mark>GNOME2</mark> ⇒ <mark>GNOME3</mark>.  
 
-          <div style="text-align:center;"><a href="https://launchpad.net/battery-status" target="_blank"><img src="/images/batterystatus.png" alt="BatteryStatus"></a></div>
+          <div style="text-align:center;"><a href="https://launchpad.net/battery-status" target="_blank"><img src="/images/batterystatus.png" alt="BatteryStatus"></a></div>  
             
 
 
@@ -250,8 +250,8 @@ content:
 
           The talk was intended for a wide range of specialists interested in <mark>firmware security</mark>. It was overview of the modern device with the hints how to use common software tools to analyze <mark>GNU/Linux</mark>'based <mark>firmware</mark> for <mark>embedded hardware</mark>.  
 
-          <div style="text-align:center;"><a href="https://github.com/ia/talks/blob/main/offzone24/OFF%20ZONE%2024%20-%20Ivan%20Zorin%20-%20Researching%20a%20multiprotocol%20usb%20modem.pdf" target="_blank"><img src="images/slide.png" alt="Intro Slide"></a></div>
-          
+          <div style="text-align:center;"><a href="https://github.com/ia/talks/blob/main/offzone24/OFF%20ZONE%2024%20-%20Ivan%20Zorin%20-%20Researching%20a%20multiprotocol%20usb%20modem.pdf" target="_blank"><img src="images/slide.png" alt="Intro Slide"></a></div>  
+            
 
 
 
@@ -340,7 +340,7 @@ content:
       - Hardware Maintainance & Repair, heavily influenced by [_unimaginable contributions_](https://en.wikipedia.org/wiki/Right_to_repair) from [_Kyle Wiens_](https://kylewiens.com)' [_iFixit_](https://www.ifixit.com) & [_Louis Rossmann_](https://www.youtube.com/@rossmanngroup) to the society;
       - Digital Photography (without any post-processing) like this:
 
-      <div style="text-align:center;"><img src="/images/rivercity.jpg" alt="Rivercity"></div>
+      <div style="text-align:center;"><img src="/images/rivercity.jpg" alt="Rivercity"></div>  
             
 
 
