@@ -291,7 +291,7 @@ content:
         additional_links:
           - title: Bazaar feature branch with the patch
             icon: fas fa-code-pull-request
-            url: https://code.launchpad.net/~iaz/unity/menubar-lp789979
+            url: https://bazaar.launchpad.net/~iaz/unity/menubar-lp789979/revision/2384
         quote: >
           Patch for Ubuntu-based Unity Desktop Environment to show global menu all the time.
         description: |
