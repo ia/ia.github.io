@@ -302,6 +302,29 @@ content:
             
 
 
+  - title:
+    layout: list
+    content:
+      - layout: left
+        title: GNOME
+        link: https://bugs.launchpad.net/ubuntu/+source/system-tools-backends/+bug/287134
+        link_text: <u>Ubuntu/GNOME</u>
+        sub_title: Security Researcher
+        caption: October — November, 2008
+        additional_links:
+          - title: "USN-663-1: system-tools-backends regression"
+            icon: fas fa-shield-halved
+            url: https://ubuntu.com/security/notices/USN-663-1
+        quote: >
+          Security report about password hashing mechanism issue in GNOME.
+        description: |
+          I did discover the <mark>security</mark> issue: no matter how long a user password was, it was enough of the first 8 characters only of a password to log in. So I was helping _Ubuntu Security Team_ & [_Kees Cook_](https://github.com/kees) with everything I could back then to triage the root cause.  
+
+
+          My original report did lead to the publication of the official _Ubuntu Security Notice_ [_USN-663-1_](https://ubuntu.com/security/notices/USN-663-1).  
+            
+
+
 
 
   - title: A Little More About Me
