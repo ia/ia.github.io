@@ -48,9 +48,9 @@ additional_links:
 #- title: Blog
 #  icon: fas fa-i-cursor
 #  url: https://ia.github.io/log/
-- title: HomeLab
-  icon: fas fa-microchip
-  url: https://h0melab.github.io
+#- title: HomeLab
+#  icon: fas fa-microchip
+#  url: https://h0melab.github.io
 
 
 # About Section
