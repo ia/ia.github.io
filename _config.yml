@@ -243,7 +243,7 @@ content:
         additional_links:
           - title:  talk info
             icon: far fa-file-lines
-            url: https://offzone.moscow/eng/program/ne-bezopasnost-ustroystv-interneta-veshchey-na-primere-nebolshogo-issledovaniya/
+            url: https://2024.offzone.moscow/eng/program/ne-bezopasnost-ustroystv-interneta-veshchey-na-primere-nebolshogo-issledovaniya.html
         quote: >
           Researching a multiprotocol USB modem, or Why “S” in IoT still stands for “Security”.
         description: |
