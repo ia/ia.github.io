@@ -21,7 +21,7 @@ title: <ul><li>System Engineer</li><li>Open Source Developer</li><li>Independent
 
 email_icon: ivan.a.zorin+ghio@gmail.com
 #email: no-spam-please-no-please-no
-#website: https://github.com/ia/modern-resume-theme
+#website: https://github.com/ia/modern-resume-theme-v2
 
 
 # Dark Mode (true/false/never)
@@ -354,7 +354,7 @@ references_title: copyleft © 2025 (some rights reserved) // CC BY-NC-ND 4.0 unl
 footer_text: • copyleft © 2025 (some rights reserved) • Ivan Zorin • CC BY-NC-ND 4.0 unless stated otherwise •
 
 # Build settings
-remote_theme: ia/modern-resume-theme
+remote_theme: ia/modern-resume-theme-v2
 
 
 sass:
