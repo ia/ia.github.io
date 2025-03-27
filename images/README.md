@@ -5,6 +5,7 @@
 - `qr.png`: image of QR code with the link to the portfolio page;
 - `rivercity.jpg`: street photo;
 - `batterystatus.png`: screenshot of Battery Status;
+- `femtocom.png`: screenshot of femtocom;
 
 TBA
 
