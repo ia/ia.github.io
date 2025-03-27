@@ -3,6 +3,7 @@
 ## Content
 
 - `qr.png`: image of QR code with the link to the portfolio page;
+- `rivercity.jpg`: street photo;
 
 TBA
 
