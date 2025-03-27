@@ -6,6 +6,7 @@
 - `rivercity.jpg`: street photo;
 - `batterystatus.png`: screenshot of Battery Status;
 - `femtocom.png`: screenshot of femtocom;
+- `offzone2024.png`: the cover of slides;
 
 TBA
 
