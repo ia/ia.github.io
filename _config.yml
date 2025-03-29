@@ -52,6 +52,9 @@ additional_links:
 #- title: HomeLab
 #  icon: fas fa-microchip
 #  url: https://h0melab.github.io
+- title: Instagram
+  icon: fab fa-instagram
+  url: https://www.instagram.com/ivzn
 
 
 # About Section
