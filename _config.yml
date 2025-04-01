@@ -87,7 +87,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 content:
-  - title: Projects
+  - title: Development
     layout: list
     content:
       - layout: left
