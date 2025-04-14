@@ -26,9 +26,14 @@
 		<br>
 		<br>
 		<ul>
+			<li><br></li>
 			<li><a href=https://github.com/dovecoteescapee/ByeDPIAndroid/releases/latest target="_blank">apk</a></li>
-			<li><span style="color: black; background: black;">-s1 -q1 -Y -Ar -s5 -o1+s -At -f-1 -r1+s -As -s1 -o1 +s -s-1 -An</span></li>
+			<li><br></li>
+			<li><input type="text" value="-s1 -q1 -Y -Ar -s5 -o1+s -At -f-1 -r1+s -As -s1 -o1 +s -s-1 -An" id=apkOptions readonly><button onclick="copyToClipboard()">Copy</button></li>
+			<li><br></li>
 		</ul>
+		<br>
+		<br>
 		<div class="imgbox">
 			<img class="center-fit" src='./images/qr_bd.png'>
 		</div>
@@ -39,6 +44,15 @@
 		<div class="imgbox">
 			<img class="center-fit" src='./images/qr_opt.png'>
 		</div>
+		
+		<script>
+			function copyToClipboard() {
+				var copyText = document.getElementById("apkOptions");
+				copyText.select();
+				copyText.setSelectionRange(0, 99999);
+				navigator.clipboard.writeText(copyText.value);
+			}
+		</script>
 	</body>
 </html>
 
